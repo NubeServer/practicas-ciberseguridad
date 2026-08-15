@@ -7,4 +7,4 @@ Bienvenido a mi repositorio de Ciberseguridad. Aquí documentaré mis avances y 
 - Fecha: 15-Agosto 2026
 - Documento completo**: [Descargar PDF aquí] Carpetas_Compartidas_VMWARE.pdf
 
-## Práctica 2: ...
+## Práctica 2: Configurar OpenVPN desde VMWARE a Tryhackme
