@@ -12,7 +12,7 @@ Bienvenido a mi repositorio de Ciberseguridad. Aquí documentaré mis avances y 
 ## Práctica 2: Aseguramiento de documentos con la Triada
 - Autor: NubeServer
 - Fecha: 17/08/2026
--  **Documento completo**: [Descargar PDF aquí]([Practica 2 Aseguramiento de documentos con la TRIADA.pdf](https://github.com/NubeServer/practicas-ciberseguridad/blob/448387ce6b0ecd7c76fc3b2fafe33245b3e4af93/Practica%202%20Aseguramiento%20de%20documentos%20con%20la%20TRIADA.pdf)) 
+-  - **Documento completo**: [Descargar PDF aquí](https://github.com/NubeServer/practicas-ciberseguridad/blob/448387ce6b0ecd7c76fc3b2fafe33245b3e4af93/Practica%202%20Aseguramiento%20de%20documentos%20con%20la%20TRIADA.pdf?download=1) 
 🔒 **Integridad del archivo (SHA256)**:
 `3A9CCFE64AE81D46748E2B307A3AE0EB260D938C96140F61D225D184BF53A236`
 
