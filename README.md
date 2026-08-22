@@ -16,4 +16,9 @@ Bienvenido a mi repositorio de Ciberseguridad. Aquí documentaré mis avances y 
 🔒 **Integridad del archivo (SHA256)**:
 `3A9CCFE64AE81D46748E2B307A3AE0EB260D938C96140F61D225D184BF53A236`
 
-## Práctica 2: Configurar OpenVPN desde VMWARE a Tryhackme
+## Práctica 3: Configurar OpenVPN desde VMWARE a Tryhackme
+- Autor: NubeServer
+- Fecha: 22/08/2026
+-  - **Documento completo**: [Descargar PDF aquí](https://github.com/NubeServer/practicas-ciberseguridad/blob/fe9f7ee8973c5f38b61297727673450d53b642f2/Practica%203_Gu%C3%ADa%20Completa%20de%20Conectividad%20Kali%20Linux%20a%20TryHackMe%20(OpenVPN).pdf) 
+🔒 **Integridad del archivo (SHA256)**:
+`2D415913BB8CAA192F80D025BE3D544D554F311CA8721F6081CB716384FF5255`
