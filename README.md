@@ -22,3 +22,13 @@ Bienvenido a mi repositorio de Ciberseguridad. Aquí documentaré mis avances y 
 -  - **Documento completo**: [Descargar PDF aquí](https://github.com/NubeServer/practicas-ciberseguridad/blob/789723132c48728aa58190749849f568d47f116f/Practica%203_Gu%C3%ADa%20Completa%20de%20Conectividad%20Kali%20Linux%20a%20TryHackMe%20(OpenVPN).pdf) 
 🔒 **Integridad del archivo (SHA256)**:
 `24E5D1D30B132E9A83A5C552D2AD14FECC698E66D412A83D8F6960344AD8B41F`
+
+## Práctica 4: Introducción a Forense digital
+- Autor: NubeServer
+- Fecha: 24/08/2026
+-  - **Documento completo**: [Descargar PDF aquí]([https://github.com/NubeServer/practicas-ciberseguridad/blob/789723132c48728aa58190749849f568d47f116f/Practica%203_Gu%C3%ADa%20Completa%20de%20Conectividad%20Kali%20Linux%20a%20TryHackMe%20(OpenVPN).pdf](https://github.com/NubeServer/practicas-ciberseguridad/blob/d0dfee531eb69c811e450a1830e5cdcfd46bc495/Practica%204%20Introduccion%20Forense%20Digital.pdf) 
+🔒 **Integridad del archivo (SHA256)**:
+`A28A3BF9290C6CABD7599487663F40265A11D74617D4599768EEE3E456A775C2`
+
+
+
