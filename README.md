@@ -25,10 +25,10 @@ Bienvenido a mi repositorio de Ciberseguridad. Aquí documentaré mis avances y 
 
 ## Práctica 4: Introducción a Forense digital
 - Autor: NubeServer
-- Fecha: 24/08/2026
--  - **Documento completo**: [Descargar PDF aquí](https://github.com/NubeServer/practicas-ciberseguridad/blob/d0dfee531eb69c811e450a1830e5cdcfd46bc495/Practica%204%20Introduccion%20Forense%20Digital.pdf) 
+- Fecha: 25/09/2026
+-  - **Documento completo**: [Descargar PDF aquí](https://github.com/NubeServer/practicas-ciberseguridad/blob/5e4dbb1db96143d10b28799394a584080f06d99c/Practica%204_Intro_to_digital_forensics.pdf) 
 🔒 **Integridad del archivo (SHA256)**:
-`A28A3BF9290C6CABD7599487663F40265A11D74617D4599768EEE3E456A775C2`
+`582857A9965E27E06425236926F87529116C826575DED53D88E4DC61AA3948A6`
 
 
 
